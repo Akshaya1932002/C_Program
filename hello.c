@@ -2,5 +2,5 @@
 void main()
 {
     printf("hello world");
-    print("Akshya_GCT COLLEGE");
+    print("Akshya_GCT hello2");
 }
