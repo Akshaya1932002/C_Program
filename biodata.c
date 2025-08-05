@@ -6,11 +6,15 @@ void main()
     char place[20];
     char college[50];
     char gender[10];
-    
-
+    printf("Enter the name");
     gets(name);
+    printf("Enter teh place");
+
+
     gets(place);
+    printf("Enter the college");
     gets(college);
+    printf("Enter the Gender");
     gets(gender);
 
     
