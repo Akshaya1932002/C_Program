@@ -8,7 +8,7 @@ void main()
     char gender[10];
     printf("Enter the name");
     gets(name);
-    printf("Enter teh place");
+    printf("Enter the place");
 
 
     gets(place);
