@@ -9,8 +9,6 @@ void main()
     printf("Enter the name");
     gets(name);
     printf("Enter the place");
-
-
     gets(place);
     printf("Enter the college");
     gets(college);
