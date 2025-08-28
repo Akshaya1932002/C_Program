@@ -8,16 +8,17 @@ int main()
  int valid;
 
  printf("Account Details: \n");
- printf("Enter account number: ");
+
+ printf("Enter account number: \n ");
  scanf("%d", &account_number);
 
- printf("Enter account holder name: ");
- scanf("%s", name);
+ printf("Enter account holder name: \n ");
+ scanf("%s", &name);
 
- printf("Enter account balance: ");
+ printf("Enter account balance: \n ");
  scanf("%f", &balance);
 
- printf("Enter withdrawal amount: ");
+ printf("Enter withdrawal amount: \n ");
  scanf("%d", &withdrawal_amount);
 
  valid = (withdrawal_amount > 0) && (withdrawal_amount <= balance); // using assignment,logical and relational operator.
