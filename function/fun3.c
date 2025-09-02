@@ -1,4 +1,3 @@
-//without arguments with return value
 #include<stdio.h>
 int add();
 void main()
@@ -15,4 +14,3 @@ int add()
     scanf("%d%d",&alpha,&beta);
     return alpha+beta;
 }
-
