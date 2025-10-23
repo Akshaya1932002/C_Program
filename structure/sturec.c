@@ -9,7 +9,6 @@ struct student
 };
 
 void print(struct student);
-
 int main() 
 {
     struct student s1, s2, s3;
